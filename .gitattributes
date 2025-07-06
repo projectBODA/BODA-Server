@@ -1,0 +1,3 @@
+# Python 코드 무시 (언어 통계 제외)
+*.py linguist-language=ignore
+*.ipynb linguist-language=ignore
